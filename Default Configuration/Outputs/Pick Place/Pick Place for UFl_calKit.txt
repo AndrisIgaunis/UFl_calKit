@@ -1,0 +1,23 @@
+Designator Footprint               Mid X         Mid Y         Ref X         Ref Y         Pad X         Pad Y TB      Rotation Comment        
+
+R15        C_SMD_ceramic_0402_RF     381.89mil    557.087mil     381.89mil    557.087mil     381.89mil    537.402mil  T         90.00 100R, 50 V, 0402, 62.5 mW, ± 1%
+R14        C_SMD_ceramic_0402_RF    244.094mil    624.016mil    244.094mil    624.016mil    244.094mil    643.701mil  T        270.00 100R, 50 V, 0402, 62.5 mW, ± 1%
+R13        C_SMD_ceramic_0402_RF     381.89mil    624.016mil     381.89mil    624.016mil     381.89mil    643.701mil  T        270.00 100R, 50 V, 0402, 62.5 mW, ± 1%
+R12        C_SMD_ceramic_0402_RF    244.094mil    557.087mil    244.094mil    557.087mil    244.094mil    537.402mil  T         90.00 100R, 50 V, 0402, 62.5 mW, ± 1%
+P16        U.FL_CalKit        377.461mil     196.85mil    407.481mil     196.85mil    347.442mil     196.85mil  T        270.00 U.Fl.          
+P15        U.FL_CalKit        248.523mil     196.85mil    218.504mil     196.85mil    278.543mil     196.85mil  T         90.00 U.Fl.          
+P14        U.FL_CalKit        922.737mil     196.85mil    952.757mil     196.85mil    892.717mil     196.85mil  T        270.00 U.Fl.          
+P13        U.FL_CalKit        711.123mil     196.85mil    681.103mil     196.85mil    741.142mil     196.85mil  T         90.00 U.Fl.          
+P12        U.FL_CalKit        450.295mil    590.551mil    480.315mil    590.551mil    420.276mil    590.551mil  T        270.00 U.Fl.          
+P11        U.FL_CalKit        175.689mil    590.551mil    145.669mil    590.551mil    205.709mil    590.551mil  T         90.00 U.Fl.          
+P10        U.FL_CalKit       1015.257mil    590.551mil   1045.277mil    590.551mil    985.238mil    590.551mil  T        270.00 U.Fl.          
+P9         U.FL_CalKit        717.029mil    590.551mil    687.009mil    590.551mil    747.048mil    590.551mil  T         90.00 U.Fl.          
+P8         U.FL_CalKit       1056.595mil    984.252mil   1086.615mil    984.252mil   1026.576mil    984.252mil  T        270.00 U.Fl.          
+P7         U.FL_CalKit        711.122mil    984.252mil    681.103mil    984.252mil    741.142mil    984.252mil  T         90.00 U.Fl.          
+P6         U.FL-R-SMT-1(10)    449.803mil    984.252mil    480.315mil    984.252mil    419.291mil    984.252mil  T        270.00 U.Fl.          
+P5         U.FL-R-SMT-1(10)    176.181mil    984.252mil    145.669mil    984.252mil    206.693mil    984.252mil  T         90.00 U.Fl.          
+P4         U.FL_CalKit       1005.414mil   1377.953mil   1035.434mil   1377.953mil    975.395mil   1377.953mil  T        270.00 U.Fl.          
+P3         U.FL_CalKit         726.87mil   1377.953mil    696.851mil   1377.953mil     756.89mil   1377.953mil  T         90.00 U.Fl.          
+P2         U.FL_CalKit        450.295mil   1377.953mil    480.315mil   1377.953mil    420.276mil   1377.953mil  T        270.00 U.Fl.          
+P1         U.FL_CalKit        175.689mil   1377.953mil    145.669mil   1377.953mil    205.709mil   1377.953mil  T         90.00 U.Fl.          
+
